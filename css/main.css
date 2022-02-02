@@ -1,0 +1,99 @@
+html {
+  font-family: 'Spartan', sans-serif;
+  font-size: 15px;
+}
+
+body {
+  font-size: 1em;
+  width: 375px;
+}
+
+header {
+  background: url('../img/bg-pattern-top-mobile.svg') no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2em;
+  color: #511d4e;
+  font-weight: 700;
+  text-align: center;
+  width: 325px;
+  padding: 75px 25px 25px 25px;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1em;
+  color: #8b7a8c;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.5em;
+  width: 325px;
+  padding: 0 25px 25px 25px;
+  margin: 0;
+}
+
+.category {
+  font-size: 0.85em;
+  color: #452b4e;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.rating {
+  background-color: #f7f2f8;
+  border-radius: 10px;
+  width: 325px;
+  padding: 0;
+  margin: 25px;
+}
+
+.star {
+  text-align: center;
+  padding-top: 15px;
+}
+
+main {
+  margin: 50px 0 100px 0;
+}
+
+.reviews {
+  background-color: #511f50;
+  width: 325px;
+  border-radius: 10px;
+  padding: 0;
+  margin: 15px 25px;
+}
+
+.headshot {
+  border-radius: 50%;
+  width: 40px;
+  padding: 28px 0;
+  float: left;
+}
+
+.name {
+  color: #fff8ff;
+  font-size: 0.85em;
+  font-weight: 700;
+  line-height: 1.5em;
+  padding: 30px;
+  margin: 0;
+  float: left;
+}
+
+span {
+  color: #c06ca7;
+  font-weight: 400;
+}
+
+.review {
+  color: #fff8ff;
+  font-size: 0.85em;
+  line-height: 1.5em;
+  padding: 0 30px 30px 30px;
+  clear: both;
+}
